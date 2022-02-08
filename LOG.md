@@ -14,3 +14,9 @@
 
 ## Day 5
 #### Coded Connect Four game in Python (Time required :  1.5 h)
+
+## Day 6
+#### Learnt how to create online games using the socket module
+
+## Day 7
+#### Coded Online Pong game in Python (Time taken : more than 4 + hours )
