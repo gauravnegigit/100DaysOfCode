@@ -18,5 +18,5 @@
 ## Day 6
 #### Learnt how to create online games using the socket module
 
-## Day 7
-#### Coded Online Pong game in Python (Time taken : more than 4 + hours )
+## Day 6-7
+#### Coded Online Pong game in Python (Time taken : more than 4 + hours ) . Got a lot of errors but finally fixed them all !
