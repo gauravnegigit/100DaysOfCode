@@ -16,7 +16,10 @@
 #### Coded Connect Four game in Python (Time required :  1.5 h)
 
 ## Day 6
+#### Solved some basic Linked List problems
+
+## Day 7
 #### Learnt how to create online games using the socket module
 
-## Day 6-7
+## Day 7-8
 #### Coded Online Pong game in Python (Time taken : more than 4 + hours ) . Got a lot of errors but finally fixed them all !
