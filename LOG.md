@@ -90,3 +90,71 @@
 ## Day 30
 #### Learned about conitnuous , foldable and symmetric tree . Now learning about expression trees
 
+## Day 31 
+#### Learned about expression trees and implemented them .
+
+## Day 32 
+#### Solving few BST search problems and implementing them in Python .
+
+## Day 33
+#### Coded 3 mini projects in Python using tkinter module .
+
+The mini projects are : - 
+
+👉 Color game
+👉 File explorer
+👉 Youtube video downloader
+
+## Day 34
+#### Coded fully - fledged checkers game using pygame module in Python .
+
+# Day 35 
+#### Coded Checkers AI using backtracking and minimax algorithm in Python .
+
+## Day 36
+#### Starting off with graphs in Python . 
+
+## Day 37-38
+#### Learned about the basics of graphs .
+
+Also implemented adjacent matrix and adjacent lists in Python and learned about DFS and BFS transversal  in Python .
+
+## Day 39 
+#### Solved a problem to find mother node in a graph using DFS .
+
+## Day 40 
+#### Solved few problems of graphs .
+
+Problems :
+
+Implemented Floyd Warshall algorithm and transitive closure of a graph in python .
+
+## Day 41
+#### Coded few basics physics simulation using pygame and pymunk module in Python .
+
+## Day 42
+#### Learned and implemented all the basic DSA concepts .
+
+Now I would mainly focus to make few Python projects in Python from the next week . 
+
+## Day 43
+#### Was very busy in some other stuff and so unable to get time to code .
+
+## Day 44
+#### Coded brick breaker and bouncing ball using pymunk and pygame module in Python .
+
+
+https://user-images.githubusercontent.com/97227844/158575620-1532897d-b98d-4615-9377-5dfa75fbd4e3.mp4
+
+https://user-images.githubusercontent.com/97227844/158575578-728e0148-4563-4b1a-85eb-7f601df68d39.mp4
+
+
+## Day 45 
+#### Coded flipper game and pyramid simulation using pymunk module in Python .
+
+
+https://user-images.githubusercontent.com/97227844/158576103-31b9f7fa-6f1f-4ca2-9e71-2157752749b4.mp4
+
+https://user-images.githubusercontent.com/97227844/158576323-ef8cf95b-dfa6-452e-a7b4-87983ac44699.mp4
+
+
