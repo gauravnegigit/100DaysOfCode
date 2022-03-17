@@ -158,3 +158,11 @@ https://user-images.githubusercontent.com/97227844/158576103-31b9f7fa-6f1f-4ca2-
 https://user-images.githubusercontent.com/97227844/158576323-ef8cf95b-dfa6-452e-a7b4-87983ac44699.mp4
 
 
+## Day 46
+#### Coded a planet simulation and netwon's cradle using Pymunk module in Python .
+
+
+https://user-images.githubusercontent.com/97227844/158770007-e0360edf-4a93-42e6-bd2a-9ee14450d4b6.mp4
+
+https://user-images.githubusercontent.com/97227844/158770137-71f68ab3-c45e-4f16-9787-38a0f2000a1d.mp4
+
