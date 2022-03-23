@@ -181,3 +181,9 @@ https://user-images.githubusercontent.com/97227844/159156271-ec817dbf-2d6c-4f61-
 
 https://user-images.githubusercontent.com/97227844/159253272-498a16e2-5621-49e8-8558-3fd56aa19125.mp4
 
+## Day 50 
+#### Coded a camera simulation using pymunk and pygame module in Python .
+
+https://user-images.githubusercontent.com/97227844/159661696-9eb13d17-993c-4b14-96b5-e8bebc4ab447.mp4
+
+
