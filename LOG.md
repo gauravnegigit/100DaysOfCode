@@ -181,9 +181,24 @@ https://user-images.githubusercontent.com/97227844/159156271-ec817dbf-2d6c-4f61-
 
 https://user-images.githubusercontent.com/97227844/159253272-498a16e2-5621-49e8-8558-3fd56aa19125.mp4
 
-## Day 50 
+## Day 51 
+#### Reading the Pymunk module docuentation
+
+## Day 52 
 #### Coded a camera simulation using pymunk and pygame module in Python .
 
 https://user-images.githubusercontent.com/97227844/159661696-9eb13d17-993c-4b14-96b5-e8bebc4ab447.mp4
+
+
+## Day 53 
+#### Attended GTC AI conference .
+
+Link : https://www.nvidia.com/gtc/keynote/
+
+## Day 54 
+#### Coded one mini project in Python .
+
+
+https://user-images.githubusercontent.com/97227844/160102461-239a8955-bf4e-4f76-89a6-d4ae6e1b59c5.mp4
 
 
