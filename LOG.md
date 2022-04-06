@@ -213,4 +213,18 @@ https://user-images.githubusercontent.com/97227844/160102461-239a8955-bf4e-4f76-
 
 #### Reading pymunk documentation 
 
+## Day 57 - 62 
 
+#### Coding angry bird game using pymunk module in Python . Also was busy with some other stuffs in these days 
+
+## Day 63- 64 
+
+#### Rectified few errors in the code and added some new features .
+
+## Day 65
+
+#### Was busy with some other stuff today .
+
+## Day 66 
+
+#### Coded snake game using tkinter module in Python .
