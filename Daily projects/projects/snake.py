@@ -16,7 +16,7 @@ def print_field():
 		if cell in snake_body:
 			print(Fore.GREEN + 'X', end = '')
 		elif cell == apple_pos:
-			print(Fore.RED + 'a',end = '')
+			print(Fore.RED + 'O',end = '')
 		elif cell[1] in (0, HEIGHT - 1) or cell[0] in (0, WIDTH - 1):
 			print(Fore.CYAN + '#', end = '')
 		else:
